@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KidAnarchy
+- 👋 Hi, I’m KidAnarchy
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning everything about Data Science, AI, ML and DL.
 - 💞️ I’m looking to collaborate on some company that give me an oppertunity.
